@@ -3,13 +3,13 @@
 	"id": "remind",
 	"version": "${version}",
 	"name": "Remind",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "I am a Bear of Very Little Brain",
 	"authors": [
 		"Fetimo"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://github.com/fetimo/remind-mod",
+		"sources": "https://github.com/fetimo/remind-mod"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/remind/icon.png",
@@ -21,8 +21,8 @@
 	},
 	"depends": {
 		"fabricloader": ">=0.15.11",
-		"minecraft": "~1.20.4",
-		"java": ">=17",
+		"minecraft": "~1.20.6",
+		"java": ">=21",
 		"fabric-api": "*"
 	}
 }
