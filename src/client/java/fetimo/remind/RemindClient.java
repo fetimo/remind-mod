@@ -7,7 +7,7 @@ import org.apache.logging.log4j.Logger;
 
 public class RemindClient implements ClientModInitializer {
 	private static final String TARGET_SERVER_IP = "209.54.116.200"; // AC IP
-	private static final Boolean DEBUG = true;
+	private static final Boolean DEBUG = false;
 	private static final Logger log = LogManager.getLogger(RemindClient.class);
 
 	@Override
